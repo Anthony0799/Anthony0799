@@ -10,7 +10,7 @@
 
 - 💻 Sou estudante
 - 💪 Estou aprendendo a mexer com HTML e CSS
-- ❤ Me apaixonei pela area da computação
+- ❤ Me apaixonei pela área da computação
 - 🔭 Sou um eterno aprendiz
 - ✋ Aceito sugestões para melhoria
 
